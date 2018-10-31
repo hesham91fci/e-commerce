@@ -10,6 +10,8 @@ target 'e-commerce' do
 	pod 'RxSwift'
 	pod 'RxCocoa'
 	pod 'Kingfisher', '4.8.0'
+	pod 'RxAlamofire'
+	pod 'SwiftyJSON'
 
   target 'e-commerceTests' do
     inherit! :search_paths

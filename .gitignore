@@ -417,3 +417,23 @@ e-commerce.xcodeproj/xcuserdata/heshamali.xcuserdatad/xcschemes/xcschememanageme
 e-commerce.xcworkspace/contents.xcworkspacedata
 e-commerce.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 e-commerce.xcworkspace/xcuserdata/heshamali.xcuserdatad/UserInterfaceState.xcuserstate
+Pods/Pods.xcodeproj/xcuserdata/heshamali.xcuserdatad/xcschemes/RxAlamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/heshamali.xcuserdatad/xcschemes/SwiftyJSON.xcscheme
+Pods/RxAlamofire/LICENSE.md
+Pods/RxAlamofire/README.md
+Pods/RxAlamofire/Sources/RxAlamofire.swift
+Pods/SwiftyJSON/LICENSE
+Pods/SwiftyJSON/README.md
+Pods/SwiftyJSON/Source/SwiftyJSON.swift
+Pods/Target Support Files/RxAlamofire/Info.plist
+Pods/Target Support Files/RxAlamofire/RxAlamofire-dummy.m
+Pods/Target Support Files/RxAlamofire/RxAlamofire-prefix.pch
+Pods/Target Support Files/RxAlamofire/RxAlamofire-umbrella.h
+Pods/Target Support Files/RxAlamofire/RxAlamofire.modulemap
+Pods/Target Support Files/RxAlamofire/RxAlamofire.xcconfig
+Pods/Target Support Files/SwiftyJSON/Info.plist
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-dummy.m
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON.modulemap
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON.xcconfig

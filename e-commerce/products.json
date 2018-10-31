@@ -1,0 +1,614 @@
+{
+    "page": 1,
+    "limit": 10,
+    "pages": 6,
+    "total": 60,
+    "_links": {
+        "self": {
+            "href": "/api/v2/products/?page=1&limit=10"
+        },
+        "first": {
+            "href": "/api/v2/products/?page=1&limit=10"
+        },
+        "last": {
+            "href": "/api/v2/products/?page=6&limit=10"
+        },
+        "next": {
+            "href": "/api/v2/products/?page=2&limit=10"
+        }
+    },
+    "_embedded": {
+        "items": [
+                  {
+                  "name": "Sticker \"autem\"",
+                  "id": 814802,
+                  "code": "06ee79c3-c2bf-3ded-81b8-83e5a9bbde1c",
+                  "options": [
+                              {
+                              "id": 54376,
+                              "code": "sticker_size",
+                              "position": 1,
+                              "values": [
+                                         {
+                                         "code": "sticker_size_3",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190166,
+                                         "value": "3\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_5",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190167,
+                                         "value": "5\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_7",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190168,
+                                         "value": "7\""
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54380,
+                              "name": "Sticker size"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/sticker_size"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 3,
+                  "images": [
+                             {
+                             "id": 1628291,
+                             "type": "main",
+                             "path": "76/9e/fa6ee8b9969025ae394cb7e52d1a.jpeg"
+                             },
+                             {
+                             "id": 1628292,
+                             "type": "thumbnail",
+                             "path": "3d/35/ab94b5e9978c882a1ce722eb598b.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/06ee79c3-c2bf-3ded-81b8-83e5a9bbde1c"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Mug \"est\"",
+                  "id": 814786,
+                  "code": "0a6ca735-df59-3382-8c0b-05cad4aee02a",
+                  "options": [
+                              {
+                              "id": 54375,
+                              "code": "mug_type",
+                              "position": 0,
+                              "values": [
+                                         {
+                                         "code": "mug_type_medium",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190163,
+                                         "value": "Medium mug"
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "mug_type_double",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190164,
+                                         "value": "Double mug"
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "mug_type_monster",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190165,
+                                         "value": "Monster mug"
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54379,
+                              "name": "Mug type"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/mug_type"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 0,
+                  "images": [
+                             {
+                             "id": 1628259,
+                             "type": "main",
+                             "path": "3c/ef/95e404e9caca91a29455b1364a43.jpeg"
+                             },
+                             {
+                             "id": 1628260,
+                             "type": "thumbnail",
+                             "path": "88/ec/ef532e3541a902ab9f8bb1188d92.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/0a6ca735-df59-3382-8c0b-05cad4aee02a"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Sticker \"in\"",
+                  "id": 814812,
+                  "code": "0e3ead6a-be58-3b29-b2a3-2f3d3e53671d",
+                  "options": [
+                              {
+                              "id": 54376,
+                              "code": "sticker_size",
+                              "position": 1,
+                              "values": [
+                                         {
+                                         "code": "sticker_size_3",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190166,
+                                         "value": "3\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_5",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190167,
+                                         "value": "5\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_7",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190168,
+                                         "value": "7\""
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54380,
+                              "name": "Sticker size"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/sticker_size"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 4,
+                  "images": [
+                             {
+                             "id": 1628311,
+                             "type": "main",
+                             "path": "ef/69/278d0789593b77fdddd391d7caa8.jpeg"
+                             },
+                             {
+                             "id": 1628312,
+                             "type": "thumbnail",
+                             "path": "d1/77/8c8fc7ed87ba837f6bc4bee4820c.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/0e3ead6a-be58-3b29-b2a3-2f3d3e53671d"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Sticker \"aliquam\"",
+                  "id": 814801,
+                  "code": "23db8179-be08-3ff5-adbd-d86113583724",
+                  "options": [
+                              {
+                              "id": 54376,
+                              "code": "sticker_size",
+                              "position": 1,
+                              "values": [
+                                         {
+                                         "code": "sticker_size_3",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190166,
+                                         "value": "3\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_5",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190167,
+                                         "value": "5\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_7",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190168,
+                                         "value": "7\""
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54380,
+                              "name": "Sticker size"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/sticker_size"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 0,
+                  "images": [
+                             {
+                             "id": 1628289,
+                             "type": "main",
+                             "path": "77/52/739d67c197b311441e50b400ecd3.jpeg"
+                             },
+                             {
+                             "id": 1628290,
+                             "type": "thumbnail",
+                             "path": "f8/56/0aedd28c289930d4ab55e642ed2b.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/23db8179-be08-3ff5-adbd-d86113583724"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Book \"sit\" by Prof. Ella Boyer DVM",
+                  "id": 814830,
+                  "code": "24ba94cd-541a-3756-b9a6-3bb31bb455ad",
+                  "options": [],
+                  "averageRating": 4,
+                  "images": [
+                             {
+                             "id": 1628347,
+                             "type": "main",
+                             "path": "12/ed/7f2b6033b43353cfd45da6663ebf.jpeg"
+                             },
+                             {
+                             "id": 1628348,
+                             "type": "thumbnail",
+                             "path": "b0/8e/380a58e36914c11efc72f16427fb.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/24ba94cd-541a-3756-b9a6-3bb31bb455ad"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Sticker \"molestias\"",
+                  "id": 814803,
+                  "code": "26ea371e-7d28-35d7-aae9-de7f056981d7",
+                  "options": [
+                              {
+                              "id": 54376,
+                              "code": "sticker_size",
+                              "position": 1,
+                              "values": [
+                                         {
+                                         "code": "sticker_size_3",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190166,
+                                         "value": "3\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_5",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190167,
+                                         "value": "5\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_7",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190168,
+                                         "value": "7\""
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54380,
+                              "name": "Sticker size"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/sticker_size"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 0,
+                  "images": [
+                             {
+                             "id": 1628293,
+                             "type": "main",
+                             "path": "cb/5c/a611179f649def30b446816b1047.jpeg"
+                             },
+                             {
+                             "id": 1628294,
+                             "type": "thumbnail",
+                             "path": "5c/06/13a76100e87e37ff3215419e9a49.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/26ea371e-7d28-35d7-aae9-de7f056981d7"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Book \"voluptas\" by Jayce Wunsch",
+                  "id": 814829,
+                  "code": "300f3820-fb18-3e21-92ac-b0759b025603",
+                  "options": [],
+                  "averageRating": 3,
+                  "images": [
+                             {
+                             "id": 1628345,
+                             "type": "main",
+                             "path": "ed/80/fe36d127ee93255df178131194bf.jpeg"
+                             },
+                             {
+                             "id": 1628346,
+                             "type": "thumbnail",
+                             "path": "43/8a/8d43bd14eed78f4dd2b357da2274.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/300f3820-fb18-3e21-92ac-b0759b025603"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Book \"et\" by Glenna Witting IV",
+                  "id": 814816,
+                  "code": "348fa614-5500-35b2-8383-6997ea60d2be",
+                  "options": [],
+                  "averageRating": 0,
+                  "images": [
+                             {
+                             "id": 1628319,
+                             "type": "main",
+                             "path": "cc/3d/3b643c25636cc2e824fcc0dbb536.jpeg"
+                             },
+                             {
+                             "id": 1628320,
+                             "type": "thumbnail",
+                             "path": "9d/cf/f9b37a5c4215e3d02f529a74e533.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/348fa614-5500-35b2-8383-6997ea60d2be"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Sticker \"dolorem\"",
+                  "id": 814804,
+                  "code": "37505749-d9c8-3be7-b61f-f16fb1bc0deb",
+                  "options": [
+                              {
+                              "id": 54376,
+                              "code": "sticker_size",
+                              "position": 1,
+                              "values": [
+                                         {
+                                         "code": "sticker_size_3",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190166,
+                                         "value": "3\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_5",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190167,
+                                         "value": "5\""
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "sticker_size_7",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190168,
+                                         "value": "7\""
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54380,
+                              "name": "Sticker size"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/sticker_size"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 1,
+                  "images": [
+                             {
+                             "id": 1628295,
+                             "type": "main",
+                             "path": "e5/a6/12842692c184b870820382944136.jpeg"
+                             },
+                             {
+                             "id": 1628296,
+                             "type": "thumbnail",
+                             "path": "22/d7/649efd2abd0f180c3fc0f52283bf.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/37505749-d9c8-3be7-b61f-f16fb1bc0deb"
+                  }
+                  }
+                  },
+                  {
+                  "name": "Mug \"molestiae\"",
+                  "id": 814794,
+                  "code": "46fa3d55-f89f-3e9e-b61f-802de9d62980",
+                  "options": [
+                              {
+                              "id": 54375,
+                              "code": "mug_type",
+                              "position": 0,
+                              "values": [
+                                         {
+                                         "code": "mug_type_medium",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190163,
+                                         "value": "Medium mug"
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "mug_type_double",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190164,
+                                         "value": "Double mug"
+                                         }
+                                         }
+                                         },
+                                         {
+                                         "code": "mug_type_monster",
+                                         "translations": {
+                                         "en_US": {
+                                         "locale": "en_US",
+                                         "id": 190165,
+                                         "value": "Monster mug"
+                                         }
+                                         }
+                                         }
+                                         ],
+                              "translations": {
+                              "en_US": {
+                              "locale": "en_US",
+                              "id": 54379,
+                              "name": "Mug type"
+                              }
+                              },
+                              "_links": {
+                              "self": {
+                              "href": "/api/v1/product-options/mug_type"
+                              }
+                              }
+                              }
+                              ],
+                  "averageRating": 0,
+                  "images": [
+                             {
+                             "id": 1628275,
+                             "type": "main",
+                             "path": "31/72/e0a932cb50f2288f915a68ab7242.jpeg"
+                             },
+                             {
+                             "id": 1628276,
+                             "type": "thumbnail",
+                             "path": "48/40/43b447ce377a9d69a9137da429ba.jpeg"
+                             }
+                             ],
+                  "_links": {
+                  "self": {
+                  "href": "/api/v1/products/46fa3d55-f89f-3e9e-b61f-802de9d62980"
+                  }
+                  }
+                  }
+                  ]
+    }
+}
